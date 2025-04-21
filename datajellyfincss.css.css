@@ -1,0 +1,20 @@
+h3.pageTitle.pageTitleWithLogo {
+    display: none !important;
+}
+
+@media (min-width: 75em) {
+    .layout-desktop .overflowPortraitCard, .layout-desktop .overflowSquareCard {
+        width: 4.0cm;
+    }
+}
+
+@media (min-width: 75em) {
+    .layout-desktop .portraitCard, .layout-desktop .squareCard {
+        width: 10%;
+    }
+}
+
+button.editorsChoiceItemButton.raised.button-submit.block.emby-button {
+    display: none !important;
+}
+
